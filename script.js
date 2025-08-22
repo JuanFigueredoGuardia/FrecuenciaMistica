@@ -6,7 +6,7 @@ toggle.addEventListener("click", () => {
     nav.classList.toggle("active");
 });
 
-// Animaciones de entrada al hacer scroll
+// Animaciones de entrada
 const sections = document.querySelectorAll(".section");
 
 const revealOnScroll = () => {
@@ -21,4 +21,4 @@ const revealOnScroll = () => {
 window.addEventListener("scroll", revealOnScroll);
 revealOnScroll();
 
-console.log("Frecuencia Mística cargada ✅ con nuevas secciones.");
+console.log("Frecuencia Mística cargada ✅ con servicios, formaciones, packs, clases, e-books y precios.");
