@@ -21,4 +21,4 @@ const revealOnScroll = () => {
 window.addEventListener("scroll", revealOnScroll);
 revealOnScroll();
 
-console.log("Frecuencia Mística cargada ✅ con servicios, formaciones, packs, clases, e-books y precios.");
+console.log("Frecuencia Mística cargada ✅ con servicios, formaciones, packs, clases, meditaciones, testimonios y precios.");
