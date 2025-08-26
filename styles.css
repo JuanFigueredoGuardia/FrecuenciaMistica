@@ -106,7 +106,7 @@ nav a:hover::after {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: url("img/fondo_rosa.jpg") no-repeat center/cover;
+    background: url("Imagenes/page8_img1.png") no-repeat center/cover;
     position: relative;
     color: white;
 }
