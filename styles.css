@@ -274,3 +274,16 @@ footer {
     padding: 10px 20px;
     font-size: 0.9em;
 }
+
+.gallery-item figure {
+    margin: 0;
+    text-align: center;
+}
+
+.gallery-item figcaption {
+    margin-top: 6px;
+    font-size: 14px;
+    color: #333;
+    font-style: italic;
+}
+
